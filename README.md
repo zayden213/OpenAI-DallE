@@ -6,7 +6,7 @@ This is a easy to use OpenAI Dalle-2 integration with Unity3D.
 1. Clone the repository and open the project
 2. Go into the 'Sample' scene and select the 'GenerateHere' GameObject. It will have two scripts attached. '**Generate**' : This handles the actual image generation. Type in a prompt and select the image size. And '**Dall E Generator**' : You need to add your OpenAI API Key here in order to connect to DallE. Find your key by making an account [here](https://openai.com/blog/openai-api) and then go to User Settings. If you can't figure it out, watch [this](https://www.youtube.com/watch?v=Ay0u4O6PoBE&ab_channel=MaxDalton) tutorial.
 
-[YouTube](https://www.youtube.com/watch?v=Ozl-TPT9IkE&ab_channel=AlexandruPaulescu) to showcase the project.
+[YouTube](https://www.youtube.com/watch?v=Ozl-TPT9IkE&ab_channel=AlexandruPaulescu) link to showcase the project.
 
 4. Happy generating!
 
