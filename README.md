@@ -2,8 +2,9 @@
 
 ![изображение](https://github.com/AlexandruPaulescu/OpenAI-x-Unity3D/assets/92258318/93f210f4-4e0f-4cc9-a37f-c082e1451bb2)
 
-# 1
-# 2
+# 1 
+# 2 ![изображение](https://github.com/AlexandruPaulescu/OpenAI-x-Unity3D/assets/92258318/7e6579dc-8199-4d29-9751-39fcad9883a1)
+
 
 
 
